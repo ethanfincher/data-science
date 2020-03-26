@@ -1,2 +1,2 @@
-# data-science
-First repo
+# Data Science
+My first repo
